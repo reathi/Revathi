@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-19T17:28:40 IST" name="Suite" finished-at="2022-02-19T17:28:45 IST" duration-ms="4446">
+    <groups>
+    </groups>
+    <test started-at="2022-02-19T17:28:40 IST" name="Test" finished-at="2022-02-19T17:28:45 IST" duration-ms="4446">
+      <class name="PutRequest.Project_PutRequest">
+        <test-method signature="Put_Request()[pri:0, instance:PutRequest.Project_PutRequest@543588e6]" started-at="2022-02-19T17:28:44 IST" name="Put_Request" finished-at="2022-02-19T17:28:45 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Put_Request -->
+      </class> <!-- PutRequest.Project_PutRequest -->
+      <class name="DeleteRequest.Project_DeleteRequest">
+        <test-method signature="Delete_Request()[pri:0, instance:DeleteRequest.Project_DeleteRequest@58695725]" started-at="2022-02-19T17:28:43 IST" name="Delete_Request" finished-at="2022-02-19T17:28:44 IST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_Request -->
+      </class> <!-- DeleteRequest.Project_DeleteRequest -->
+      <class name="PostRequest.Project_PostRequest">
+        <test-method signature="Post_Request()[pri:0, instance:PostRequest.Project_PostRequest@7133da86]" started-at="2022-02-19T17:28:40 IST" name="Post_Request" finished-at="2022-02-19T17:28:42 IST" duration-ms="2166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post_Request -->
+      </class> <!-- PostRequest.Project_PostRequest -->
+      <class name="GetRequest.Project_GetRequest">
+        <test-method signature="Get_Request()[pri:0, instance:GetRequest.Project_GetRequest@618425b5]" started-at="2022-02-19T17:28:42 IST" name="Get_Request" finished-at="2022-02-19T17:28:43 IST" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Request -->
+      </class> <!-- GetRequest.Project_GetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
